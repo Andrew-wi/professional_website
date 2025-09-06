@@ -1,0 +1,11 @@
+#+TITLE: My first post
+#+DATE: 2025-09-06
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: blog
+#+HUGO_DRAFT: true
+#+FILETAGS: :org:hugo:
+
+Write your content here…
+
+- bullets
+- code

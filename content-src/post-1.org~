@@ -1,0 +1,11 @@
+#+TITLE: My first post
+#+DATE: 2025-09-06
+#+HUGO_BASE_DIR: ../        ;; path to your Hugo site root
+#+HUGO_SECTION: blog        ;; will go under content/blog/
+#+HUGO_DRAFT: true          ;; drafts are hidden by default
+#+FILETAGS: :org:hugo:
+
+Write your content here…
+
+- bullets
+- code

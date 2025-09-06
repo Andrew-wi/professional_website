@@ -1,0 +1,9 @@
+baseURL = 'https://awinnicki.com/'
+languageCode = 'en-us'
+title = 'Humanities'
+theme = "ananke"
+
+[deployment]
+  [[deployment.targets]]
+    name = 'production'
+    url = 'arn:aws:s3:::professionalwebsitebucket123123'
