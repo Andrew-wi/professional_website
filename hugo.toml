@@ -1,9 +1,4 @@
-baseURL = 'https://awinnicki.com/'
+baseURL = 'https://andrewwinnicki.pages.dev/'
 languageCode = 'en-us'
-title = 'Humanities'
+title = 'Andrew Winnicki'
 theme = "ananke"
-
-[deployment]
-  [[deployment.targets]]
-    name = 'production'
-    url = 'arn:aws:s3:::professionalwebsitebucket123123'
